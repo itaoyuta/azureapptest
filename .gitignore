@@ -1,0 +1,5 @@
+*.DS_Store
+wwwroot/wp/wp-config.php
+
+*.htaccess
+*.htpasswd
